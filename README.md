@@ -10,7 +10,7 @@ Babeș-Bolyai University of Cluj-Napoca, Romania
 
 - first download the project source to your local computer
 - python verison: `3.7.9`
-- install the python dependencies listed in `req.txt` file using anaconda, with the following command: `conda create -n <environment-name> --file req.txt` (you must to have`CUDA` installed properly and the following packages are essential: `tensorflow-gpu==1.15.4`, `pysimplegui==4.40.0`, `pillow==8.0.1`, `pandas==1.2.4`. You can also install these packages using PIP.)
+- install the python dependencies listed in `req.txt` file using anaconda, with the following command: `conda create -n <environment-name> --file req.txt` (you must to have`CUDA` installed properly and the following packages are essential: `tensorflow-gpu==1.15.4`, `pysimplegui==4.40.0`, `pillow==8.0.1`, `pandas==1.2.4`. Alternatively, you can install these packages using PIP.)
 - some additional files (weight files, csv files) that are too big to store on git, you can get from my Google Drive: https://drive.google.com/drive/folders/1of81pTbueHti5EGwmUkv1kYemcbukSLg?usp=sharing
 - in the Google Drive folder you find 4 files, put them in the -> corresponding directory:
 1. a demo video (Demo_video.mp4)
